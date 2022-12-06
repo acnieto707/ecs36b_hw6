@@ -1,0 +1,28 @@
+{
+	"check_word" : "_____",
+	"game_id" : "61644_2022-11-25T04:07:48+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "_oo__",
+				"time" : "2022-11-25T04:07:48+0000"
+			},
+			{
+				"guess" : "mound",
+				"result" : "o____",
+				"time" : "2022-11-25T04:07:48+0000"
+			},
+			{
+				"guess" : "sicky",
+				"result" : "_____",
+				"time" : "2022-11-25T04:07:48+0000"
+			}
+		]
+	},
+	"remaining_score" : 97,
+	"score_distributed" : false,
+	"word" : "alarm"
+}

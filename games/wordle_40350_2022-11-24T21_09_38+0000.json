@@ -1,0 +1,18 @@
+{
+	"check_word" : "oo___",
+	"game_id" : "40350_2022-11-24T21:09:38+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "oo___",
+				"time" : "2022-11-24T21:09:38+0000"
+			}
+		]
+	},
+	"remaining_score" : 99,
+	"score_distributed" : false,
+	"word" : "fecal"
+}

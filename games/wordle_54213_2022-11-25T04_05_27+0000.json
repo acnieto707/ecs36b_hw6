@@ -1,0 +1,28 @@
+{
+	"check_word" : "_o___",
+	"game_id" : "54213_2022-11-25T04:05:27+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "_o___",
+				"time" : "2022-11-25T04:05:27+0000"
+			},
+			{
+				"guess" : "mound",
+				"result" : "__o__",
+				"time" : "2022-11-25T04:05:27+0000"
+			},
+			{
+				"guess" : "sicky",
+				"result" : "_o___",
+				"time" : "2022-11-25T04:05:27+0000"
+			}
+		]
+	},
+	"remaining_score" : 97,
+	"score_distributed" : false,
+	"word" : "quail"
+}

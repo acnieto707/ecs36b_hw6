@@ -1,0 +1,17 @@
+{
+	"check_word" : "#####",
+	"game_id" : "37339_2022-11-23T23:42:53+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "o__o_",
+				"time" : "2022-11-23T23:42:53+0000"
+			}
+		]
+	},
+	"remaining_score" : 99,
+	"word" : "tilde"
+}

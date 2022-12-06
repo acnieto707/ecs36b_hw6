@@ -1,0 +1,17 @@
+{
+	"check_word" : "#_o__",
+	"game_id" : "16807_2022-11-23T23:37:27+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "#_o__",
+				"time" : "2022-11-23T23:37:27+0000"
+			}
+		]
+	},
+	"remaining_score" : 99,
+	"word" : "elder"
+}

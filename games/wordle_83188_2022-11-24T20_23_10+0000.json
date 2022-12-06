@@ -1,0 +1,18 @@
+{
+	"check_word" : "_#___",
+	"game_id" : "83188_2022-11-24T20:23:10+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "_#___",
+				"time" : "2022-11-24T20:23:10+0000"
+			}
+		]
+	},
+	"remaining_score" : 99,
+	"score_distributed" : false,
+	"word" : "badly"
+}

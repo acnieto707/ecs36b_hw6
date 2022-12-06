@@ -1,0 +1,18 @@
+{
+	"check_word" : "_o_o_",
+	"game_id" : "28363_2022-11-24T20:21:24+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "_o_o_",
+				"time" : "2022-11-24T20:21:24+0000"
+			}
+		]
+	},
+	"remaining_score" : 99,
+	"score_distributed" : false,
+	"word" : "plait"
+}

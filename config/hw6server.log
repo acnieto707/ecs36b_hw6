@@ -1,0 +1,193 @@
+[2022-11-26T08:22:29+0000] {
+	"arg action" : "set_name",
+	"arg student_list" : 
+	[
+		"987654321",
+		"987654324",
+		"987654327"
+	],
+	"arg team_name" : "foo",
+	"result" : 
+	{
+		"word" : "?????"
+	}
+}
+
+[2022-11-26T08:22:29+0000] {
+	"arg action" : "guess",
+	"arg class_id" : "Wordle",
+	"arg game_id" : "19056_2022-11-24T20:26:16+0000",
+	"arg my_guess" : "worry",
+	"result" : 
+	{
+		"check_word" : "#####",
+		"error_code" : -4,
+		"game_id" : "19056_2022-11-24T20:26:16+0000",
+		"guesses" : 
+		{
+			"data" : 
+			[
+				{
+					"guess" : "earth",
+					"result" : "__#__",
+					"time" : "2022-11-24T20:26:16+0000"
+				},
+				{
+					"guess" : "worry",
+					"result" : "#####",
+					"time" : "2022-11-25T04:05:27+0000"
+				}
+			]
+		},
+		"reason" : "Wordle solved already",
+		"remaining_score" : 99,
+		"score_distributed" : true,
+		"status" : "failed",
+		"word" : "?????"
+	}
+}
+
+[2022-11-26T08:22:29+0000] {
+	"arg action" : "submit",
+	"arg game_id" : "19056_2022-11-24T20:26:16+0000",
+	"arg team_name" : "foo",
+	"result" : 
+	{
+		"check_word" : "#####",
+		"error_code" : -5,
+		"game_id" : "19056_2022-11-24T20:26:16+0000",
+		"guesses" : 
+		{
+			"data" : 
+			[
+				{
+					"guess" : "earth",
+					"result" : "__#__",
+					"time" : "2022-11-24T20:26:16+0000"
+				},
+				{
+					"guess" : "worry",
+					"result" : "#####",
+					"time" : "2022-11-25T04:05:27+0000"
+				}
+			]
+		},
+		"reason" : "score has been distributed",
+		"remaining_score" : 99,
+		"score_distributed" : true,
+		"status" : "failed",
+		"word" : "?????"
+	}
+}
+
+[2022-11-26T08:22:29+0000] {
+	"arg action" : "obtain",
+	"arg class_id" : "Wordle",
+	"arg game_id" : "00000000",
+	"result" : 
+	{
+		"check_word" : "_____",
+		"game_id" : "10348_2022-11-26T08:22:29+0000",
+		"remaining_score" : 100,
+		"score_distributed" : false,
+		"status" : "successful",
+		"word" : "?????"
+	}
+}
+
+[2022-11-26T08:22:29+0000] {
+	"arg action" : "guess",
+	"arg class_id" : "Wordle",
+	"arg game_id" : "10348_2022-11-26T08:22:29+0000",
+	"arg my_guess" : "earth",
+	"result" : 
+	{
+		"check_word" : "o____",
+		"game_id" : "10348_2022-11-26T08:22:29+0000",
+		"guesses" : 
+		{
+			"data" : 
+			[
+				{
+					"guess" : "earth",
+					"result" : "o____",
+					"time" : "2022-11-26T08:22:29+0000"
+				}
+			]
+		},
+		"remaining_score" : 99,
+		"score_distributed" : false,
+		"status" : "successful",
+		"word" : "?????"
+	}
+}
+
+[2022-11-26T08:22:29+0000] {
+	"arg action" : "guess",
+	"arg class_id" : "Wordle",
+	"arg game_id" : "10348_2022-11-26T08:22:29+0000",
+	"arg my_guess" : "mound",
+	"result" : 
+	{
+		"check_word" : "_____",
+		"game_id" : "10348_2022-11-26T08:22:29+0000",
+		"guesses" : 
+		{
+			"data" : 
+			[
+				{
+					"guess" : "earth",
+					"result" : "o____",
+					"time" : "2022-11-26T08:22:29+0000"
+				},
+				{
+					"guess" : "mound",
+					"result" : "_____",
+					"time" : "2022-11-26T08:22:29+0000"
+				}
+			]
+		},
+		"remaining_score" : 98,
+		"score_distributed" : false,
+		"status" : "successful",
+		"word" : "?????"
+	}
+}
+
+[2022-11-26T08:22:29+0000] {
+	"arg action" : "guess",
+	"arg class_id" : "Wordle",
+	"arg game_id" : "10348_2022-11-26T08:22:29+0000",
+	"arg my_guess" : "sicky",
+	"result" : 
+	{
+		"check_word" : "_#___",
+		"game_id" : "10348_2022-11-26T08:22:29+0000",
+		"guesses" : 
+		{
+			"data" : 
+			[
+				{
+					"guess" : "earth",
+					"result" : "o____",
+					"time" : "2022-11-26T08:22:29+0000"
+				},
+				{
+					"guess" : "mound",
+					"result" : "_____",
+					"time" : "2022-11-26T08:22:29+0000"
+				},
+				{
+					"guess" : "sicky",
+					"result" : "_#___",
+					"time" : "2022-11-26T08:22:29+0000"
+				}
+			]
+		},
+		"remaining_score" : 97,
+		"score_distributed" : false,
+		"status" : "successful",
+		"word" : "?????"
+	}
+}
+

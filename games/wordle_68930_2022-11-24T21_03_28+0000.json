@@ -1,0 +1,18 @@
+{
+	"check_word" : "o____",
+	"game_id" : "68930_2022-11-24T21:03:28+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "o____",
+				"time" : "2022-11-24T21:03:28+0000"
+			}
+		]
+	},
+	"remaining_score" : 99,
+	"score_distributed" : false,
+	"word" : "bugle"
+}

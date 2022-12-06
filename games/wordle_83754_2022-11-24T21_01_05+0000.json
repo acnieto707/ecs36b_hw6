@@ -1,0 +1,18 @@
+{
+	"check_word" : "oooo_",
+	"game_id" : "83754_2022-11-24T21:01:05+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "oooo_",
+				"time" : "2022-11-24T21:01:05+0000"
+			}
+		]
+	},
+	"remaining_score" : 99,
+	"score_distributed" : false,
+	"word" : "react"
+}

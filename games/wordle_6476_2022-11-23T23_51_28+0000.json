@@ -1,0 +1,27 @@
+{
+	"check_word" : "#####",
+	"game_id" : "6476_2022-11-23T23:51:28+0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "earth",
+				"result" : "__o__",
+				"time" : "2022-11-23T23:51:28+0000"
+			},
+			{
+				"guess" : "mound",
+				"result" : "o____",
+				"time" : "2022-11-23T23:51:28+0000"
+			},
+			{
+				"guess" : "sicky",
+				"result" : "#o_o_",
+				"time" : "2022-11-23T23:51:28+0000"
+			}
+		]
+	},
+	"remaining_score" : 97,
+	"word" : "smirk"
+}
